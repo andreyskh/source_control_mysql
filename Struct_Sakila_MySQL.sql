@@ -1,6 +1,7 @@
 
 -- Set character set the client will use to send SQL statements to the server
 --
+-- add comment 12/09/2023
 SET NAMES 'utf8';
 
 --
